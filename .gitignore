@@ -1,0 +1,12 @@
+# Entorno local
+.venv/
+__pycache__/
+*.pyc
+.claude/
+
+# Documentos de entrega (se comparten aparte, no en el repositorio)
+*.docx
+*.pdf
+*.xlsx
+ESQUEMA_ALGORITMO.md
+Guion_Sustentacion.md
